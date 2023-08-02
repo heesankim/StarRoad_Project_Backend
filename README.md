@@ -73,7 +73,7 @@ Star_Road - 국내 여행지 추천 서비스
 - 카카오, 구글 OAuth 인증 구현
 - multer를 이용한 이미지 업로드 기능
 - 응답시간 미들웨어
-- 쉬운 사용 위한 JSDOC 주석을 위한 툴팁 작성 ./src/types/controller.d.ts
+- **쉬운 사용 위한 JSDOC 주석을 위한 툴팁 작성 |** ./src/types/controller.d.ts
   https://gist.github.com/sh5080/c8dbcd35abb8c8b5dea46fcb6644beb7
 
 - **API 명세서 |** https://documenter.getpostman.com/view/26758081/2s93m91MNe
