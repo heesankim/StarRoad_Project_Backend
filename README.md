@@ -75,7 +75,7 @@ Star_Road - 국내 여행지 추천 서비스
 - 응답시간 미들웨어
 - **API 명세서 |** https://documenter.getpostman.com/view/26758081/2s93m91MNe
 - **Sequence Diagram |**
-  <img width="2560" alt="userInfo" src="https/github.com/sh5080/starRoad_BE/diagrams/UserInfo.drawio.png">
+  <img width="2560" alt="userInfo" src="./diagrams/UserInfo.drawio.png">
 
 # 🔥 기능소개
 
