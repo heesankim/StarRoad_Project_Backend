@@ -90,7 +90,8 @@ For building and running application you need:
 ## Installation
 
 ```Installation
-$ git clone {스타로드 깃 레포 주소}
+$ git clone https://github.com/elice-starRoad/Frontend
+$ git clone https://github.com/elice-starRoad/Backend
 $ cd starRoad
 ```
 
