@@ -67,12 +67,15 @@ Star_Road - 국내 여행지 추천 서비스
 <br>
 <br>
 
-## Features
+## BackEnd Features
 
 - 유저 관련 API / 일정 생성, 게시글, 댓글 관련 API / 관광지 API
 - 카카오, 구글 OAuth 인증 구현
 - multer를 이용한 이미지 업로드 기능
 - 응답시간 미들웨어
+- 쉬운 사용 위한 JSDOC 주석을 위한 툴팁 작성
+<script src="https://gist.github.com/sh5080/c8dbcd35abb8c8b5dea46fcb6644beb7.js"></script>
+
 - **API 명세서 |** https://documenter.getpostman.com/view/26758081/2s93m91MNe
 - **Sequence Diagram Example |**
   <img width="2560" alt="userInfo" src="./diagrams/UserInfo.drawio.png">
@@ -107,7 +110,7 @@ $ yarn && yarn start
 $ npm install && npm run dev
 ```
 
-# 🔥 기능소개
+# 🔥 전체 기능 소개
 
 ## 1. 구글, 카카오 간편 로그인
 
