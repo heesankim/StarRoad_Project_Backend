@@ -74,8 +74,37 @@ Star_Road - 국내 여행지 추천 서비스
 - multer를 이용한 이미지 업로드 기능
 - 응답시간 미들웨어
 - **API 명세서 |** https://documenter.getpostman.com/view/26758081/2s93m91MNe
-- **Sequence Diagram |**
+- **Sequence Diagram Example |**
   <img width="2560" alt="userInfo" src="./diagrams/UserInfo.drawio.png">
+
+# 👉 시작 가이드
+
+## Requirements
+
+For building and running application you need:
+
+- Node.js 18.16.0
+- Yarn 1.22.19
+- Typescript 5.1.3
+
+## Installation
+
+```Installation
+$ git clone {스타로드 깃 레포 주소}
+$ cd starRoad
+```
+
+## Backend
+
+```Backend
+$ yarn && yarn start
+```
+
+## Frontend
+
+```Frontend
+$ npm install && npm run dev
+```
 
 # 🔥 기능소개
 
