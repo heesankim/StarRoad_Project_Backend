@@ -1,6 +1,7 @@
 # StarRoad - 국내 여행지 추천 서비스
 
-![starRoad_2](https://github.com/solssak/star_Road/assets/107416133/31324a81-afc7-49c3-b538-6cb1fdf4dfd1)
+![starRoad_logo_resize](https://github.com/elice-starRoad/Frontend/assets/107416133/43cc5317-c74b-4336-82d6-00ad5af5b8f7)
+
 
 ## 당신의 여정을 함께할게요!
 
